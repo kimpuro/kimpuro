@@ -1,5 +1,4 @@
-
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github.com/KimPuro/KimPuro/blob/output/github-contribution-grid-snake-dark.svg"
@@ -14,8 +13,8 @@
   />
 </picture>
 <br>
-<br>
-<div align="center">
+<br> -->
+<!-- <div align="center">
 <picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpuro&layout=compact&theme=radical"
@@ -27,7 +26,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpuro&layout=compact&show_icons=true" />
 </picture>
-</div>
+</div> -->
 <!-- <br>
 <div align="center">
 <picture>
